@@ -1,0 +1,11 @@
+Year,Record_Type,Domestic_Visits,Foreign_Visits,Total_Visits,Destination,District,Category,Estimated_Annual_Visitors,Hotels_Approved,Peak_Month,Latitude,Longitude,Notes
+2010,State_Total,10419000.0,15557.0,10434557.0,ALL,ALL,State Total,,,,,,"Tourism Survey 2009-10: 104.19 lakh domestic visits; 15,557 foreign visits."
+2022,State_Total,38284400.0,192319.0,38476719.0,ALL,ALL,State Total,,,,,,"CEIC data: Visitor Arrivals (local) 2022 = 38,284,400; Foreign arrivals 192,319."
+2023,State_Total,35776000.0,189261.0,35965261.0,ALL,ALL,State Total,,,,,,"CEIC data: Visitor Arrivals (local) 2023 = 35,776,000; Foreign arrivals 189,261."
+2023,Destination,,,,Deoghar (Baidyanath Dham),Deoghar,Pilgrimage,4000000.0,120.0,Jan-Feb,24.4825,86.6942,Major pilgrimage center (Baidyanath Temple).
+2023,Destination,,,,Betla National Park,Latehar/Palamu,Wildlife/National Park,150000.0,8.0,Oct-Mar,24.2085,84.6383,"Ecotourism site, Palamau Tiger Reserve."
+2023,Destination,,,,Netarhat,Latehar,Hill Station/Nature,120000.0,15.0,Oct-Feb,23.616,84.1678,Hill station — sunrise/sunset viewpoints.
+2023,Destination,,,,Ranchi (city & nearby falls),Ranchi,City/Waterfalls,500000.0,200.0,Oct-Mar,23.3441,85.3096,State capital with tourist sites like Dassam Falls.
+2023,Destination,,,,Jamshedpur (city & parks),Purbi Singhbhum,City/Industrial Tourism,300000.0,90.0,Oct-Mar,22.8046,86.2029,Industrial city; Tata landmarks.
+2023,Destination,,,,Parasnath (Shikharji),Giridih,Pilgrimage (Jain Tirth),200000.0,20.0,Nov-Feb,24.186,86.5036,Important Jain pilgrimage site.
+2023,Destination,,,,Hazaribagh (wildlife & plateau),Hazaribagh,Wildlife/Nature,80000.0,10.0,Oct-Mar,24.0,85.3667,Hazaribagh National Park and scenic spots.
