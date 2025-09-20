@@ -37,7 +37,7 @@ The **Jharkhand Tourism Dashboard** is an interactive Power BI project designed 
 3. Explore the interactive dashboard using filters, slicers, and visuals.  
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot]([![Dashboard Screenshot](https://github.com/username/reponame/blob/main/images/dashboard.png?raw=true)))
+![Dashboard Screenshot](https://github.com/username/reponame/blob/main/images/dashboard.png?raw=true)
  
 
 ## 🌍 Impact
